@@ -8,6 +8,7 @@ Features
 Text-to-Image Generation: Users can input a textual description, and the model generates an image that matches the description.
 REST API Integration: The model is accessible via a REST API, making it easy to integrate into various applications and services.
 Scalable and Efficient: The implementation ensures efficient handling of requests, allowing for scalable usage.
+
 How It Works
 User Input: The user provides a textual prompt describing the desired image.
 API Request: The application sends the prompt to the REST API endpoint.
